@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java and Springboot**
 - 💬 About me **I'm 17 years old, seeking knowledge and experience in development**
 - 📫 How to reach me **geanprofissionaltech@gmail.com**
-- 📄 Know about my experiences [Order Processing System](https://github.com/geanrabelo/Order-Processing-System)
+- 📄 Know about my experiences [Order Processing System](https://github.com/geanrabelo/Order-Processing-System.git)
 
 </div>
 
